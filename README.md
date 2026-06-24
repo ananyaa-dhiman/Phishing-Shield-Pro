@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phishing Shield Pro
 
 A cross-platform desktop tool that scans email files for phishing red flags
@@ -122,3 +123,6 @@ This tool is meant to help spot common phishing patterns and speed up
 manual review, it is a heuristic + ML helper, not a guarantee. Always use
 your own judgement and your organization's official reporting process for
 suspicious email.
+=======
+# Phishing-Shield-Pro
+>>>>>>> 53c7a1fb304483a587f54d52cdfc1de188a50458
