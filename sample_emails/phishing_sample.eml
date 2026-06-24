@@ -1,0 +1,18 @@
+From: PayPal Security <security@paypa1-verify.com>
+To: victim@example.com
+Subject: URGENT: Your account will be suspended - verify now!!
+Date: Mon, 23 Jun 2026 10:15:00 -0000
+Reply-To: collect@totally-different-domain.ru
+Return-Path: <bounce@another-domain.net>
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=paypa1-verify.com; dkim=none; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear customer,</p>
+<p>We noticed unusual activity on your account. Your account will be suspended within 24 hours
+unless you verify your identity immediately.</p>
+<p>Please <a href="http://192.168.55.20/login/verify.php">click here to verify your account</a> now.</p>
+<p>You can also visit <a href="http://bit.ly/3xPay22">paypal.com</a> for more info.</p>
+<p>Kindly revert with your password to avoid account closure. Act now, this offer expires soon!</p>
+<p>Thank you,<br/>PayPal Security Team</p>
+</body></html>

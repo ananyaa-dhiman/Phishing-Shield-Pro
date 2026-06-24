@@ -1,0 +1,17 @@
+From: Sarah Johnson <sarah.johnson@realcompany.com>
+To: team@realcompany.com
+Subject: Team meeting notes from today
+Date: Mon, 23 Jun 2026 14:30:00 -0000
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=realcompany.com; dkim=pass; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+
+Hi team,
+
+Just wanted to share the notes from our meeting today. We agreed to move the
+launch date to next Friday and Mike will send out the updated timeline by
+tomorrow afternoon.
+
+Let me know if you have any questions.
+
+Thanks,
+Sarah
