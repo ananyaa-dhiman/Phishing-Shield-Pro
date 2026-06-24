@@ -83,6 +83,13 @@ gui_charts.py                     matplotlib chart helpers
 
 sample_emails/               a couple of test .eml files
 ```
+# Installation on Linux
+git clone https://github.com/ananyaa-dhiman/Phishing-Shield-Pro
+ls 
+cd Phishing-Shield-Pro
+source venv/bin/activate
+pip install -r requirements.txt
+python3 main.py
 
 ## Disclaimer
 This tool is meant to help spot common phishing patterns and speed up
